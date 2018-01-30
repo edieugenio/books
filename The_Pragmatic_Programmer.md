@@ -7,8 +7,7 @@ David Thomas
 
 <del>What distinguishes Pragmatic Programmers? We feel it’s an attitude, a style, a philosophy of  approaching problems and their solutions. They think beyond the immediate problem, always trying to place it in its larger context, always trying to be aware of the bigger picture. After all, without this larger context, how can you be pragmatic? How can you make intelligent compromises and informed decisions?</del>
 
-¿Qué distingue a los Programadores Pragmáticos? Sentimos que es una actitud, un estilo, una filosofía de abordar los problemas y sus soluciones. Ellos
-pensar más allá del problema inmediato, siempre tratando de ubicarlo en su contexto más amplio, siempre tratando de estar al tanto del panorama más amplio. Después de todo, sin este contexto más amplio, ¿cómo se puede ser pragmático? ¿Cómo puede hacer compromisos inteligentes y decisiones informadas?
+¿Qué distingue a los Programadores Pragmáticos? Sentimos que es una actitud, un estilo, una filosofía de abordar los problemas y sus soluciones. Ellos piensan más allá del problema inmediato, siempre tratando de ubicarlo en su contexto más amplio, siempre tratando de estar al tanto del panorama más amplio. Después de todo, sin este contexto más amplio, ¿cómo se puede ser pragmático? ¿Cómo puede hacer compromisos inteligentes y decisiones informadas?
 
 <del>Another key to their success is that they take responsibility for everything they do, which we discuss in The Cat Ate My Source Code. Being responsible, Pragmatic Programmers won’t sit idly by and watch their projects fall apart through neglect. In Software Entropy, we tell you how to keep your projects pristine.</del>
 
@@ -24,7 +23,7 @@ Una de las ventajas de entender el contexto en el que trabajas es que se vuelve 
 
 <del>Of course, you need to have a broad base of knowledge and experience to pull all of this off. Learning is a continuous and ongoing process. In Your Knowledge Portfolio, we discuss some strategies for keeping the momentum up.</del>
 
-Por supuesto, usted necesita tener una amplia base de conocimientos y experiencia para lograr todo esto. El aprendizaje es un proceso continuo y continuo. En Your Knowledge Portfolio, discutimos algunas estrategias para mantener el impulso.
+Por supuesto, se necesita tener una amplia base de conocimientos y experiencia para lograr todo esto. El aprendizaje es un proceso continuo y continuo. En Your Knowledge Portfolio, discutimos algunas estrategias para mantener el impulso.
 
 <del>Finally, none of us works in a vacuum. We all spend a large amount of time interacting with others. Communicate! lists ways we can do this better.</del>
 
@@ -36,13 +35,13 @@ La programación pragmática nace de una filosofía de pensamiento pragmático. 
 
 #### The Cat Ate My Source Code
 
-> <del>The greatest of all weaknesses is the fear of appearing weak.</del>
+> <del>"The greatest of all weaknesses is the fear of appearing weak."</del>
 
-> La mayor de todas las debilidades es el miedo a parecer débil.
+> "La mayor de todas las debilidades es el miedo a parecer débil."
 
 <del>One of the cornerstones of the pragmatic philosophy is the idea of taking responsibility for yourself and your actions in terms of your career advancement, your project, and your day-to-day work. A Pragmatic Programmer takes charge of his or her own career, and isn’t afraid to admit ignorance or error. It’s not the most pleasant aspect of programming, to be sure, but it will happen—even on the best of projects. Despite thorough testing, good documentation, and solid automation, things go wrong. Deliveries are late. Unforeseen technical problems come up.</del>
 
-Una de las piedras angulares de la filosofía pragmática es la idea de responsabilizarse de sí mismo y de sus acciones en cuanto a su carrera, su proyecto y su trabajo cotidiano. Un programador pragmático se hace cargo de su propia carrera y no tiene miedo de admitir ignorancia o error. No es el aspecto más agradable de la programación, sin duda, pero ocurrirá -incluso en los mejores proyectos. A pesar de pruebas minuciosas, buena documentación y automatización sólida, las cosas van mal. Las entregas llegan tarde. Surgen problemas técnicos imprevistos.
+Una de las piedras angulares de la filosofía pragmática es la idea de responsabilizarse de uno mismo y de sus acciones en cuanto a su carrera, su proyecto y su trabajo cotidiano. Un programador pragmático se hace cargo de su propia carrera y no tiene miedo de admitir ignorancia o error. No es el aspecto más agradable de la programación, sin duda, pero ocurrirá -incluso en los mejores proyectos. A pesar de pruebas minuciosas, buena documentación y automatización sólida, las cosas pueden salir mal. Las entregas llegan tarde. Surgen problemas técnicos imprevistos.
 
 <del>These things happen, and we try to deal with them as professionally as we can. This means being honest and direct. We can be proud of our abilities, but we must be honest about our shortcomings—our ignorance as well as our mistakes.</del>
 
@@ -52,7 +51,7 @@ Estas cosas suceden y tratamos de tratarlas lo más profesionalmente posible. Es
 
 <del>Responsibility is something you actively agree to. You make a commitment to ensure that something is done right, but you don’t necessarily have direct control over every aspect of it. In addition to doing your own personal best, you must analyze the situation for risks that are beyond your control. You have the right not to take on a responsibility for an impossible situation, or one in which the risks are too great. You’ll have to make the call based on your own ethics and judgment.</del>
 
-La responsabilidad es algo que usted acepta activamente. Te comprometes a asegurarte de que algo se haga bien, pero no necesariamente tienes control directo sobre todos los aspectos. Además de hacer su propio esfuerzo personal, usted debe analizar la situación para los riesgos que están fuera de su control. Usted tiene derecho a no asumir ninguna responsabilidad por una situación imposible, o en la que los riesgos sean demasiado grandes. Tendrás que tomar la decisión basada en tu propia ética y juicio.
+La responsabilidad es algo que usted acepta activamente. Te comprometes a asegurarte de que algo se haga bien, pero no necesariamente tienes control directo sobre todos los aspectos. Además de hacer su propio esfuerzo personal, usted debe analizar los posibles riesgos que se están fuera de su control. Usted tiene derecho a no asumir ninguna responsabilidad por una situación imposible, o en la que los riesgos sean demasiado grandes. Tendrás que tomar la decisión basada en tu propia ética y juicio.
 
 <del>When you do accept the responsibility for an outcome, you should expect to be held accountable for it. When you make a mistake (as we all do) or an error in judgment, admit it honestly and try to offer options.</del>
 
