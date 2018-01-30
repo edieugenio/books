@@ -93,3 +93,79 @@ Trate de enjuagar las excusas poco convincentes antes de expresarlas en voz alta
 
 * ¿Cómo reaccionas cuando alguien, como un cajero de banco, un mecánico de autos o un empleado, viene a ti con una excusa poco convincente? ¿Qué piensa de ellos y de su empresa como resultado?
 
+#### Software Entropy
+
+<del>While software development is immune from almost all physical laws, entropy hits us hard. Entropy is a term from physics that refers to the amount of “disorder” in a system. Unfortunately, the laws of thermodynamics guarantee that the entropy in the universe tends toward a maximum. When disorder increases in software, programmers call it “software rot.”</del>
+
+Mientras que el desarrollo de software es inmune a casi todas las leyes físicas, la entropía nos golpea con fuerza. Entropía es un término de la física que se refiere a la cantidad de "desorden" en un sistema. Desgraciadamente, las leyes de la termodinámica garantizan que la entropía en el universo tiende hacia un máximo. Cuando el desorden aumenta en el software, los programadores lo llaman "putrefacción del software".
+
+<del>There are many factors that can contribute to software rot. The most important one seems to be the psychology, or culture, at work on a project. Even if you are a team of one, your project’s psychology can be a very delicate thing. Despite the best laid plans and the best people, a project can still experience ruin and decay during its lifetime. Yet there are other projects that, despite enormous difficulties and constant setbacks, successfully fight nature’s tendency toward disorder and manage to come out pretty well.</del>
+
+Hay muchos factores que pueden contribuir a la putrefacción del software. La más importante parece ser la psicología, o cultura, en el trabajo de un proyecto. Incluso si usted es un equipo de uno, la psicología de su proyecto puede ser una cosa muy delicada. A pesar de los mejores planes y la mejor gente, un proyecto todavía puede experimentar la ruina y la decadencia durante su vida. Sin embargo, hay otros proyectos que, a pesar de las enormes dificultades y los constantes contratiempos, combaten con éxito la tendencia de la naturaleza al desorden y logran salir bastante bien.
+
+<del<What makes the difference?</del>
+
+¿Cuál es la diferencia?
+
+<del>In inner cities, some buildings are beautiful and clean, while others are rotting hulks. Why? Researchers in the field of crime and urban decay discovered a fascinating trigger mechanism, one that very quickly turns a clean, intact, inhabited building into a smashed and abandoned derelict [WK82].</del>
+  
+En los centros urbanos, algunos edificios son hermosos y limpios, mientras que otros se están pudriendo. ¿Por qué? Investigadores en el campo del crimen y la decadencia urbana descubrieron un mecanismo detonante fascinante, uno que rápidamente convierte un edificio limpio, intacto y habitado en un derrelicto destrozado y abandonado[WK82].
+
+<del>A broken window.</del>
+
+Una ventana rota.
+
+<del>One broken window, left unrepaired for any substantial length of time, instills in the inhabitants of the building a sense of abandonment—a sense that the powers that be don’t care about the building. So another window gets broken. People start littering. Graffiti appears. Serious structural damage begins. In a relatively short space of time, the building becomes damaged beyond the owner’s desire to fix it, and the sense of abandonment becomes reality.</del>
+
+Una ventana rota, dejada sin reparar por un período considerable de tiempo, infunde en los habitantes del edificio un sentido de abandono, es decir, una sensación de que los poderes que no se preocupan por el edificio. Así que otra ventana se rompe. La gente empieza a tirar basura. Aparece el graffiti. Comienza el daño estructural grave. En un espacio de tiempo relativamente corto, el edificio se daña más allá del deseo del propietario de arreglarlo, y el sentido de abandono se convierte en realidad.
+
+<del>The “Broken Window Theory” has inspired police departments in New York and other major cities to crack down on the small stuff in order to keep out the big stuff. It works: keeping on top of broken windows, graffiti, and other small infractions has reduced the serious crime level.</del>
+
+La "Teoría de la ventana rota" ha inspirado a los departamentos de policía de Nueva York y otras ciudades importantes a tomar medidas enérgicas contra las cosas pequeñas para mantener fuera de las cosas grandes. Funciona: mantener encima de ventanas rotas, graffiti y otras infracciones menores ha reducido el nivel de delitos graves.
+
+> Tip 4
+
+> Don’t Live with Broken Windows
+
+> No viva con Windows roto
+
+<del>Don’t leave “broken windows” (bad designs, wrong decisions, or poor code) unrepaired. Fix each one as soon as it is discovered. If there is insufficient time to fix it properly, then board it up. Perhaps you can comment out the offending code, or display a "Not Implemented" message, or substitute dummy data instead. Take some action to prevent further damage and to show that you’re on top of the situation.</del>
+
+No deje "ventanas rotas" (diseños malos, decisiones incorrectas o código pobre) sin reparar. Arregla cada uno en cuanto lo descubras. Si no hay tiempo suficiente para arreglarlo correctamente, entonces apóyelo. Tal vez usted pueda comentar el código ofensivo, o mostrar un mensaje de "No implementado", o sustituir los datos ficticios en su lugar. Tome algunas medidas para prevenir más daños y demostrar que está al tanto de la situación.
+
+<del>We’ve seen clean, functional systems deteriorate pretty quickly once windows start breaking. There are other factors that can contribute to software rot, and we’ll touch on some of them elsewhere, but neglect accelerates the rot faster than any other factor.</del>
+
+Hemos visto que los sistemas limpios y funcionales se deterioran bastante rápido una vez que las ventanas comienzan a romperse. Hay otros factores que pueden contribuir a la putrefacción del software, y tocaremos algunos de ellos en otras partes, pero el descuido acelera la putrefacción más rápido que cualquier otro factor.
+
+<del>You may be thinking that no one has the time to go around cleaning up all the broken glass of a project. If you continue to think like that, then you’d better plan on getting a dumpster, or moving to another neighborhood. Don’t let entropy win.</del>
+
+Usted puede estar pensando que nadie tiene el tiempo para limpiar todos los vidrios rotos de un proyecto. Si continúas pensando de esa manera, entonces será mejor que planeas conseguir un contenedor de basura, o mudarte a otro vecindario. No dejes que la entropía gane.
+
+<del>Putting Out Fires</del>
+
+Apagando Fuegos
+
+<del>By contrast, there’s the story of an obscenely rich acquaintance of Andy’s. His house was immaculate, beautiful, loaded with priceless antiques, objets d’art, and so on. One day, a tapestry that was hanging a little too close to his living room fireplace caught on fire. The fire department rushed in to save the day—and his house. But before they dragged their big, dirty hoses into the house, they stopped—with the fire raging—to roll out a mat between the front door and the source of the fire.</del>
+
+En contraste, está la historia de un conocido obscenamente rico de Andy. Su casa era inmaculada, bella, llena de antigüedades inestimables, objetos de arte, etcétera. Un día, un tapiz que colgaba demasiado cerca de la chimenea de su salón se prendió fuego. Los bomberos se apresuraron para salvar el día, y su casa. Pero antes de que arrastraran sus mangueras grandes y sucias a la casa, se detuvieron-con el fuego enfurecido-para desenrollar una estera entre la puerta principal y la fuente del fuego.
+
+<del>They didn’t want to mess up the carpet.</del>
+No querían estropear la alfombra. 
+
+<del>A pretty extreme case, to be sure, but that’s the way it must be with software. One broken window—a badly designed piece of code, a poor management decision that the team must live with for the duration of the project—is all it takes to start the decline. If you find yourself working on a project with quite a few broken windows, it’s all too easy to slip into the mindset of “All the rest of this code is crap, I’ll just follow suit.” It doesn’t matter if the project has been fine up to this point.
+In the original experiment leading to the “Broken Window Theory,” an abandoned car sat for a week untouched. But once a single window was broken, the car was stripped and turned upside down within hours.</del>
+
+Un caso bastante extremo, para estar seguro, pero así es como debe ser con el software. Una ventana rota -una pieza de código mal diseñada, una mala decisión administrativa con la que el equipo debe convivir mientras dure el proyecto- es todo lo que se necesita para iniciar el declive. Si te encuentras trabajando en un proyecto con algunas ventanas rotas, es demasiado fácil meterse en la mentalidad de "Todo el resto de este código es una mierda, yo seguiré el ejemplo". No importa si el proyecto ha estado bien hasta ahora.
+En el experimento original que condujo a la "Teoría de la ventana rota", un coche abandonado permaneció durante una semana intacto. Pero una vez que se rompió una sola ventana, el auto fue desarmado y volteado al revés en cuestión de horas.
+
+<del>By the same token, if you find yourself on a team and a project where the code is pristinely beautiful—cleanly written, well designed, and elegant—you will likely take extra special care not to mess it up, just like the firefighters. Even if there’s a fire raging (deadline, release date, trade show demo, etc.), you don’t want to be the first one to make a mess.</del>
+
+De la misma manera, si te encuentras en un equipo y un proyecto donde el código es impecablemente bello -escrito de forma limpia, bien diseñado y elegante- es probable que tengas un cuidado especial para no estropearlo, al igual que los bomberos. Incluso si hay un incendio furioso (plazo de entrega, fecha de lanzamiento, demostración de la feria, etc.), no quieres ser el primero en ocasionar un desastre.
+
+**Challenges
+
+* <del>Help strengthen your team by surveying your computing “neighborhood.” Choose two or three “broken windows” and discuss with your colleagues what the problems are and what could be done to fix them.</del>
+* Ayude a fortalecer a su equipo al estudiar su "vecindario" de computación. Elija dos o tres "ventanas rotas" y discuta con sus colegas cuáles son los problemas y qué se puede hacer para solucionarlos.
+* <del>Can you tell when a window first gets broken? What is your reaction? If it was the result of someone else’s decision, or a management edict, what can you do about it?</del>
+* ¿Sabes cuándo se rompe una ventana por primera vez? ¿Cuál es su reacción? Si fue el resultado de la decisión de otra persona o de un edicto administrativo, ¿qué puede hacer al respecto?
+
